@@ -3,4 +3,4 @@
 	url = git@github.com:ManueldG/git
 [submodule "Sql"]
 	path = Sql
-	url = git@github.com:ManueldG/Tutorial-SQL
+	url = git@github.com:ManueldG/Tutorial_SQL.git
