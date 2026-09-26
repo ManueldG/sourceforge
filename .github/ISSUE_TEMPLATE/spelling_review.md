@@ -1,38 +1,27 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Spelling Review
+about: Report spelling or grammar issues in the project
 title: ''
-labels: ''
+labels: documentation, spelling
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Issue type
+- [ ] Spelling mistake
+- [ ] Grammar issue
+- [ ] Broken wording
+- [ ] Other
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Where is the issue?
+Provide the file name, page, or section where the problem appears.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Current text
+Paste the incorrect text here.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Suggested correction
+Paste the corrected version here.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Additional notes
+Add any context, screenshots, or references if needed.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
