@@ -1,12 +1,19 @@
 Copyright & License
 Copyright (c) 2026 Manuel della Gala       
 
-This work (including all notes, tutorials, and documentation)
-is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))          
+This repository contains documentation, notes, tutorials, command descriptions,
+and command-line examples. The contents are licensed under the
+[Creative Commons Attribution-ShareAlike 4.0 International License
+(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Code Snippets Exception
-All source code snippets, scripts, and configuration examples contained within these notes are additionally dual-licensed under the MIT License. You may copy, modify, and use them in any project (including commercial software) without any restriction.
+See [LICENSE](LICENSE) for the complete license text.
 
+The command examples are provided for instructional purposes. They are part of
+the documentation and are not intended to be standalone software libraries,
+functions, or classes.
+
+When redistributing or adapting this documentation, please provide attribution
+to Manuel della Gala and indicate whether changes were made.
 
 # sourceforge
 Student26 on sourceforge
