@@ -4,3 +4,6 @@
 [submodule "Sql"]
 	path = Sql
 	url = git@github.com:ManueldG/Tutorial_SQL.git
+[submodule "Postgresql-note"]
+	path = Postgresql-note
+	url = ssh://git@github.com/ManueldG/Postgresql-note
